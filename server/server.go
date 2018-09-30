@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ChamPly/dbtool/conversion"
-	"github.com/ChamPly/dbtool/export"
-	"github.com/ChamPly/dbtool/fileread"
+	"github.com/champly/dbtool/conversion"
+	"github.com/champly/dbtool/export"
+	"github.com/champly/dbtool/fileread"
 
-	"github.com/ChamPly/dbtool/log"
+	"github.com/champly/dbtool/log"
 )
 
 var fileName *string

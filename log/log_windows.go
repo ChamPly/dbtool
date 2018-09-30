@@ -4,7 +4,7 @@ package log
 import (
 	"fmt"
 
-	"github.com/ChamPly/dbtool/utility"
+	"github.com/champly/dbtool/utility"
 )
 
 func Infof(format string, params ...interface{}) {

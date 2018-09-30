@@ -1,7 +1,7 @@
 package conversion
 
 import (
-	"github.com/ChamPly/dbtool/fileread"
+	"github.com/champly/dbtool/fileread"
 )
 
 // IConversion 转换

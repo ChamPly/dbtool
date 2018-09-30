@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/ChamPly/dbtool/utility"
+	"github.com/champly/dbtool/utility"
 )
 
 // MarkDownFile read database structure from markdown file

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ChamPly/dbtool/fileread"
+	"github.com/champly/dbtool/fileread"
 )
 
 // MySQLConversion mysql conversion

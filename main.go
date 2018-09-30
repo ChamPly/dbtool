@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ChamPly/dbtool/server"
+import "github.com/champly/dbtool/server"
 
 func main() {
 	server.Start()
